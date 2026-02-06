@@ -1,6 +1,6 @@
 {
-"version": "0.0.3",
-  "url": "https://github.com/dancondr32-tech/SurviveBar/releases/download/v0.0.3/update.zip",
-  "changelog": "Проба фикса рыбалки",
-  "release_date": "2026-02-03"
+"version": "0.0.4",
+  "url": "https://github.com/dancondr32-tech/SurviveBar/releases/download/v0.0.4/update.zip",
+  "changelog": "Обновление ядра сервера и обновление ядра HammerLib",
+  "release_date": "2026-02-06"
 }
