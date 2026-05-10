@@ -1,6 +1,6 @@
 {
-"version": "0.0.4",
-  "url": "https://github.com/dancondr32-tech/SurviveBar/releases/download/v0.0.4/update.zip",
-  "changelog": "Обновление ядра сервера и обновление ядра HammerLib",
+"version": "0.0.5",
+  "url": "https://github.com/dancondr32-tech/SurviveBar/releases/download/v0.0.5/update.zip",
+  "changelog": "Добавление Forestry и мода на рецепты готовки",
   "release_date": "2026-02-06"
 }
